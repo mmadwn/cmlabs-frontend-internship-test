@@ -30,8 +30,8 @@ Before you begin, ensure you have installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mmadwn/cm-labs-frontend-internship-test.git
-   cd cm-labs-frontend-internship-test
+   git clone https://github.com/mmadwn/cmlabs-frontend-internship-test.git
+   cd cmlabs-frontend-internship-test
    ```
 
 2. Install dependencies using pnpm:
